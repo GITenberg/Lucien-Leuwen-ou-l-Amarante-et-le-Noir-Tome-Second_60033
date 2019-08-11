@@ -1,0 +1,56 @@
+_repo: Lucien-Leuwen-ou-l-Amarante-et-le-Noir-Tome-Second_60033
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vox, Maximilien
+    aliases:
+    - Monod, Samuel Theodore William‏
+    - Monod, Samuel Théodore William‏
+    - Monod, Samuel William‏ Théodore
+    birthdate: 1894
+    deathdate: 1974
+    gutenberg_agent_id: '50752'
+    url: http://www.gutenberg.org/2009/agents/50752
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Maximilien_Vox
+    - https://en.wikipedia.org/wiki/Maximilien_Vox
+creator:
+  author:
+    agent_name: Stendhal
+    aliases:
+    - Beyle, Marie Henri
+    - Marie-Henri Beyle
+    birthdate: 1783
+    deathdate: 1842
+    gutenberg_agent_id: '418'
+    url: http://www.gutenberg.org/2009/agents/418
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Stendhal
+    - https://fr.wikipedia.org/wiki/Stendhal
+  editor:
+    agent_name: Mitty, Jean de
+    birthdate: 1864
+    deathdate: 1911
+    gutenberg_agent_id: '50751'
+    url: http://www.gutenberg.org/2009/agents/50751
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60033'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dissenters -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'France -- Politics and government -- 1789-1900 -- Fiction'
+- GITenberg
+title: Lucien Leuwen; ou, l'Amarante et le Noir. Tome Second
+url: http://www.gutenberg.org/ebooks/60033
