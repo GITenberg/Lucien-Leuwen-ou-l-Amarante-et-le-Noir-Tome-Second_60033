@@ -1,5 +1,5 @@
 _repo: Lucien-Leuwen-ou-l-Amarante-et-le-Noir-Tome-Second_60033
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Vox, Maximilien
@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://fr.wikipedia.org/wiki/Maximilien_Vox
     - https://en.wikipedia.org/wiki/Maximilien_Vox
+covers:
+- cover_type: archival
+  image_path: 60033-h/images/leuwen02_cover.jpg
 creator:
   author:
     agent_name: Stendhal
@@ -34,6 +37,8 @@ creator:
     gutenberg_agent_id: '50751'
     url: http://www.gutenberg.org/2009/agents/50751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60033#Lucien-Leuwen-ou-l-Amarante-et-le-Noir-Tome-Second
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
